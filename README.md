@@ -1,10 +1,11 @@
 1. 서비스명: 
-  - WATFLIX
+    - WATFLIX
 
 2. 서비스 목적:
- - “넷플릭스 요즘 뭐가 재밌어?” 넷플릭스 컨텐츠들의 객관적인 리뷰를 제공하는 플랫폼 서비스
+   - “넷플릭스 요즘 뭐가 재밌어?” 넷플릭스 컨텐츠들의 객관적인 리뷰를 제공하는 플랫폼 서비스
  
 3. 서비스 기능:
+
     [회원]
     - 리뷰작성 및 평점등록(글 작성, 조회, 수정, 삭제, 별점, 한 줄 평 등록)
     - 넷플릭스 컨텐츠 리뷰 및 평점 조회, 
@@ -24,11 +25,11 @@
     - 회원관리
 
 4. 개발 환경
-  - IDE: ECLIPSE
-  - DB: ORACLE
-  - Web Server : Tomcat
-  - 형상관리 : GITHUB
-  - 라이브러리 관리 : MAVEN
-  - Application : JDK
-  - 프로젝트 관리도구: Trello
+    - IDE: ECLIPSE
+    - DB: ORACLE
+    - Web Server : Tomcat
+    - 형상관리 : GITHUB
+    - 라이브러리 관리 : MAVEN
+    - Application : JDK
+    - 프로젝트 관리도구: Trello
   
